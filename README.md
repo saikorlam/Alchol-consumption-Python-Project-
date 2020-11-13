@@ -57,15 +57,15 @@ https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
 
 Predictable Question:
 
-1) How the parenting affects grade and walc affects the grade
-2) How walc affect rade
-3)how weekend alchohol consumptio affect grade
-4) how romantic life affects grade
-5) how mother education affect grade
-6)how father education affect grade
+1) How the parenting affects grade and walc affects the grades
+2) How walc affect grades
+3) How weekend alchohol consumption affect grades
+4) How romantic life affects grades
+5) How mother education affect grades
+6) How father education affect grades
 7) Palce of living affect grades ?
-8) student health affects grades ?
-9)Does the desire to get higher education influence the final grades?
-10) Internet affects grades ?
-11) Parents profession affects grades ?
+8) Student health affects grades ?
+9) Does the desire to get higher education influence the final grades?
+10)Internet affects grades ?
+11)Parents profession affects grades ?
 
