@@ -2,7 +2,7 @@
 
 I. Introduction
 
-In our Project we are going to analyse the data of Student Alchohol Consumption which we acquired from the public data sets in Kaggle. By using this data we are going to predict how consumption of alcohol would effect the student health. This Data has been contributed by researchers P. Cortez and A. Silva of portugal who collected this data and made it public for research study purpose. This Data represents the grades of Maths and Portugeese grades along with different details which will help us to predict the end result.  
+In our Project we are going to analyse the data of Student Alchohol Consumption which we acquired from the public data sets. By using this data we are going to predict how consumption of alcohol would effect the student health. This Data has been contributed by researchers P. Cortez and A. Silva of portugal who collected this data and made it public for research study purpose. This Data represents the grades of Maths and Portugeese grades along with different details which will help us to predict the end result.  
 
 Details Regarding Data:
 The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade.
@@ -64,7 +64,6 @@ Predictable Question:
 5) how mother education affect grade
 6)how father education affect grade
 7) Palce of living affect grades ?
- urban/rural
 8) student health affects grades ?
 9)Does the desire to get higher education influence the final grades?
 10) Internet affects grades ?
